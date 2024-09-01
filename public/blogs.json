@@ -1,0 +1,52 @@
+[
+    {
+        "id": "001",
+        "cover": "https://media.istockphoto.com/id/1171902434/photo/smart-industry-control-concept.webp?a=1&b=1&s=612x612&w=0&k=20&c=cpvGEK2EhmFar7c7mRBKbs2N_Yfrc1VPiYF1jiavp38=",
+        "title": "The Future of AI in Healthcare",
+        "author": "Dr. Jane Smith",
+        "author_img": "https://images.unsplash.com/photo-1502685104226-ee32379fefbe",
+        "posted_date": "2024-08-21",
+        "reading_time": 7,
+        "hashtags": ["#AI", "#Healthcare", "#Innovation"]
+    },
+    {
+        "id": "002",
+        "cover": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+        "title": "Understanding Quantum Computing",
+        "author": "John Doe",
+        "author_img": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79",
+        "posted_date": "2024-09-01",
+        "reading_time": 5,
+        "hashtags": ["#QuantumComputing", "#Technology", "#Future"]
+    },
+    {
+        "id": "003",
+        "cover": "https://images.unsplash.com/photo-1542831371-d531d36971e6",
+        "title": "Sustainable Energy Solutions for the 21st Century",
+        "author": "Emily Clark",
+        "author_img": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
+        "posted_date": "2024-07-15",
+        "reading_time": 8,
+        "hashtags": ["#Sustainability", "#Energy", "#Environment"]
+    },
+    {
+        "id": "004",
+        "cover": "https://images.unsplash.com/photo-1593642532400-2682810df593",
+        "title": "The Rise of Remote Work: Pros and Cons",
+        "author": "Michael Johnson",
+        "author_img": "https://images.unsplash.com/photo-1595152772835-219674b2a8a6",
+        "posted_date": "2024-06-30",
+        "reading_time": 6,
+        "hashtags": ["#RemoteWork", "#Productivity", "#WorkLifeBalance"]
+    },
+    {
+        "id": "005",
+        "cover": "https://images.unsplash.com/photo-1542831371-29b0f74f9713",
+        "title": "Exploring the Metaverse: A New Digital Frontier",
+        "author": "Sarah Lee",
+        "author_img": "https://plus.unsplash.com/premium_photo-1678197937465-bdbc4ed95815?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cGVyc29ufGVufDB8fDB8fHww",
+        "posted_date": "2024-08-12",
+        "reading_time": 10,
+        "hashtags": ["#Metaverse", "#Technology", "#Innovation"]
+    }
+]
