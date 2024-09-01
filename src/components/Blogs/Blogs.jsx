@@ -12,8 +12,8 @@ useEffect(()=>{
 },[])
 
     return (
-        <div>
-            
+        <div className='md:w-2/3'>
+            <div className="text-4xl">Blogs</div>
         </div>
     );
 };
