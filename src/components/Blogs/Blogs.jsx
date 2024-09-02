@@ -13,7 +13,7 @@ useEffect(()=>{
 },[])
 
     return (
-        <div className='md:w-2/3'>
+        <div className='md:w-4/5'>
             <div className="text-4xl">Blogs</div>
             {
                 blogs.map(blog => <Blog key={blog.id}
