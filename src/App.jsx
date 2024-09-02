@@ -15,7 +15,6 @@ function App() {
   
   const handelToAddReadingTime = (time) =>{
      setReadingTime(readingTime + time)
-     console.log(time)
   }
 
 
@@ -27,7 +26,7 @@ function App() {
       <div className='md:flex max-w-6xl mx-auto'>
         <Blogs handelAddToBookmark={handelAddToBookmark}
         handelToAddReadingTime={handelToAddReadingTime}></Blogs>
-        <Bookmarks bookmarks={bookmarks}></Bookmarks> 
+        <Bookmarks bookmarks={bookmarks} readingTime={readingTime}></Bookmarks> 
       </div>
     </>
   )
