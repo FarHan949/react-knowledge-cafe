@@ -3,7 +3,7 @@ import { BsBookmarkStar } from "react-icons/bs";
 
 const Blog = ({blog, handelAddToBookmark, handelToAddReadingTime}) => {
 
-    const {cover, title, author, author_img, reading_time, posted_date, hashtags} = blog
+    const {id, cover, title, author, author_img, reading_time, posted_date, hashtags} = blog
     return (
         <div className='mb-16 space-y-2'>
             <img className='w-4/5 mb-3 rounded' src={cover} alt={`cover picture for the title ${title}`} />
@@ -32,7 +32,7 @@ const Blog = ({blog, handelAddToBookmark, handelToAddReadingTime}) => {
             </p>
 
             <button
-            onClick={()=> handelToAddReadingTime(reading_time)}
+            onClick={()=> handelToAddReadingTime(id, reading_time)}
             className='text-purple-600 font-bold underline'>Mark As Read</button>
         </div>
     );
